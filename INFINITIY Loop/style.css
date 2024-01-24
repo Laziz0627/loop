@@ -1,0 +1,436 @@
+/* Reset */
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* main styling */
+html,body {
+    font-family: sans-serif;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+h1,h2,h3 {
+    padding-bottom: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+#navbar {
+    background-image: url(img/infinite-loop-01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 707px;
+    color: #fff;
+    overflow: auto;
+}
+
+#navbar a {
+    color: #fcfcfc;
+}
+
+#navbar h1 {
+    float: left;
+    padding-top: 20px;
+}
+
+#navbar ul {
+    float: right;
+    list-style: none;
+}
+
+#navbar ul li {
+    float: left;
+}
+
+#navbar ul li a {
+    display: inline-block;
+    padding: 20px;
+}
+
+#navbar ul li a:hover {
+    background-color: blue;
+    color: #fff;
+}
+
+.container {
+    max-width: 1100px;
+    margin: auto;
+}
+
+.lop {
+    font-size: 25px;
+}
+
+.loop {
+    text-align: center;
+    margin-top: 270px;
+}
+
+.loop1 {
+    font-size: 45px;
+}
+
+.loop2 {
+    font-size: 17px;
+}
+
+.loop3 {
+    font-size: 17px;
+}
+
+.fa-solid {
+    margin-left: 640px;
+    height: 50px;
+    width: 60px;
+    
+}
+
+.envel {
+    margin-top: 100px;
+}
+
+
+#navbar1 a {
+    color: #5a1a1a;
+}
+
+#navbar1 h1 {
+    float: left;
+    padding-top: 20px;
+}
+
+#navbar1 ul {
+    float: right;
+    list-style: none;
+}
+
+#navbar1 ul li {
+    float: left;
+}
+
+#navbar1 ul li a {
+    display: inline-block;
+    padding: 20px;
+}
+
+#navbar1 ul li a:hover
+#navbar1 ul li a.current {
+    background-color: rgb(0, 0, 118);
+    color: #f4f3f5;
+}
+
+.marjin {
+    margin-top: -25px;
+    width: 1500px;
+    
+}
+
+.we {
+    max-width: 1100px;
+    margin: auto;
+}
+
+.fa-regular {
+font-size: 60px;
+margin-left: 265px;
+margin-top: 50px;
+}
+
+.p {
+    margin-left: 350px;
+    margin-top: -60px;
+    font-size: 30px;
+    color: blue;
+}
+
+.p1 {
+    margin-left: 350px;
+    margin-top: -21  px;
+}
+
+.p3 {
+    margin-left: 350px;
+    margin-top: -60px;
+    font-size: 30px;
+    color: blue;
+}
+
+.p4 {
+    margin-left: 350px;
+    margin-top: -21px;
+}
+
+.btn {
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    background-color: #000051;
+    padding: 13px 20px;
+    border: none;
+    cursor: pointer;
+    margin-left: 350px;
+    margin-top: 30px;
+  }
+
+  .card {
+    margin-left: 700px;
+    margin-top: -580px;
+  }
+
+  .p5 {
+    margin-left: 350px;
+    margin-top: -58px;
+    font-size: 30px;
+    color: blue;
+  }
+
+  .p6 {
+    margin-left: 350px;
+  }
+
+  .card1 {
+    margin-left: 700px;
+  }
+
+  .p7 {
+    margin-left: 350px;
+    margin-top: -59px;
+    font-size: 30px;
+    color: blue;
+  }
+
+  .p8 {
+    margin-left: 350px;
+  }
+
+  
+.center {
+    text-align: center;
+    margin-top: 100px;
+    background-image: url(img/infinite-loop-02.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 707px;
+    color: #fff;
+    overflow: auto;
+    
+}
+
+.center1 {
+    margin-top: 80px;
+}
+
+.center2 {
+    margin-top: 40px;
+}
+
+.dictum {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-top: 90px;
+    margin-left: -800px;
+}
+
+.dictum1 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.alt {
+    margin-top: -355px;
+    text-align: center;
+}
+
+.dictum2 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.alt1 {
+    margin-left: 1150px;
+    margin-top: -255px;
+}
+
+.also p {
+    margin-left: -800px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.also1 {
+    color: #fff;
+    font-size: 16px;
+}
+
+.also2 {
+    font-size: 16px;
+    color: #fff;
+    margin-left: -40px;
+}
+
+.also3 {
+    font-size: 16px;
+    color: #fff;
+    margin-top: -10px;
+}
+
+.has {
+    margin-left: -780px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.has2 {
+    margin-left: -30px;
+    font-size: 18px;
+}
+
+.has3 {
+    font-size: 18px;
+}
+
+.ss {
+    font-size: 50px;
+    color: #fff;
+    margin-left: -350px;
+}
+
+.ss1 {
+    font-size: 50px;
+    color: #9b9898;
+    margin-left: -280px;
+    margin-top: -57px;
+}
+
+.ss2 {
+    font-size: 50px;
+    color: #9b9898;
+    margin-left: -210px;
+    margin-top: -57px;
+}
+
+.Gallery {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 250px;
+}
+
+.ll {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 17px;
+}
+
+.src {
+    width: 250px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.src1 {
+    width: 250px;
+    height: 400px;
+    margin-left: 30px;
+}
+
+.src2 {
+    width: 250px;
+    height: 400px;
+    margin-left: 30px;
+}
+
+.src3 {
+    width: 250px;
+    height: 400px;
+    margin-left: 30px;
+}
+
+.src4 {
+    width: 250px;
+    height: 400px;
+    margin-left: 30px;
+}
+
+.src5 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.src6 {
+    text-align: center;
+    margin-top: -10px;
+    
+}
+
+.jpg {
+    text-align: center;
+    margin-top: 100px;
+    background-image: url(img/infinite-loop-03.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 707px;
+    color: #fff;
+    overflow: auto;
+    
+}
+
+.name1 {
+    margin-top: -300px;
+}
+
+.top {
+    margin-top: -150px;
+}
+
+.fa-solid {
+    margin-top: -200px;
+    margin-right: -70px;
+    font-size: 30px;
+}
+
+.fa i {
+    /* padding-top: -250px; */
+    /* margin-left: 250px; */
+    float: right;
+    margin-left: -200;
+}
+
+.fa1 {
+    margin-top: -270px;
+    margin-left: 200px;
+    font-size: 9px;
+}
+
+.div i {
+    background-color: transparent;
+    margin-left: 840px;
+    margin-top: 40px;
+    font-size: 35px;
+    color: #fff;
+}
+
+.div1 {
+    margin-left: 900px;
+    font-size: 13px;
+    color: #fff;
+    margin-top: -44px;
+}
+
+
